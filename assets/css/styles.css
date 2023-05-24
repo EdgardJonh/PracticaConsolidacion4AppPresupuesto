@@ -1,0 +1,33 @@
+.losTitulos{
+    color:rgb(0, 0, 0);
+    text-align:start;
+}
+
+.fondoPresupuesto{
+    background-color: #ebffeb;
+    border: 3px solid green;
+    border-radius: 12px;
+    margin-bottom:2%;
+}
+
+.fondoGasto{
+    background-color: #ffd6d6;
+    border: 3px solid red;
+    border-radius: 12px;
+    margin-top: 2%;
+}
+
+.fondoRegistro1{
+   
+    border-radius: 12px;
+    margin-bottom:2%;
+}
+
+.fondoRegistro2{
+   
+    border-radius: 12px;
+    margin-top:2%;
+}
+.tamanoTexto{
+    font-size: 20px;
+}
